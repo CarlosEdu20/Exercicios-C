@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/carlosedu/CLionProjects/ExecLivroDeC/cmake-build-deb
 
 build cmake_object_order_depends_target_ExecLivroDeC: phony || .
 
-build CMakeFiles/ExecLivroDeC.dir/Teste.c.o: C_COMPILER__ExecLivroDeC_unscanned_Debug /home/carlosedu/CLionProjects/ExecLivroDeC/Teste.c || cmake_object_order_depends_target_ExecLivroDeC
-  DEP_FILE = CMakeFiles/ExecLivroDeC.dir/Teste.c.o.d
+build CMakeFiles/ExecLivroDeC.dir/Teste2.c.o: C_COMPILER__ExecLivroDeC_unscanned_Debug /home/carlosedu/CLionProjects/ExecLivroDeC/Teste2.c || cmake_object_order_depends_target_ExecLivroDeC
+  DEP_FILE = CMakeFiles/ExecLivroDeC.dir/Teste2.c.o.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/ExecLivroDeC.dir
   OBJECT_FILE_DIR = CMakeFiles/ExecLivroDeC.dir
@@ -63,7 +63,7 @@ build CMakeFiles/ExecLivroDeC.dir/Teste.c.o: C_COMPILER__ExecLivroDeC_unscanned_
 #############################################
 # Link the executable ExecLivroDeC
 
-build ExecLivroDeC: C_EXECUTABLE_LINKER__ExecLivroDeC_Debug CMakeFiles/ExecLivroDeC.dir/Teste.c.o
+build ExecLivroDeC: C_EXECUTABLE_LINKER__ExecLivroDeC_Debug CMakeFiles/ExecLivroDeC.dir/Teste2.c.o
   DEP_FILE = CMakeFiles/ExecLivroDeC.dir/link.d
   FLAGS = -g
   LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/ExecLivroDeC.dir/link.d
