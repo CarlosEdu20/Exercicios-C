@@ -1,4 +1,4 @@
-git push origin main# Exercícios em C - Livro "Linguagem C Completa e Descomplicada"
+ Exercícios em C - Livro "Linguagem C Completa e Descomplicada"
 
 Este projeto contém exercícios resolvidos em C organizados por capítulos/temas, desenvolvidos durante meus estudos com o livro *Linguagem C Completa e Descomplicada*.
 
