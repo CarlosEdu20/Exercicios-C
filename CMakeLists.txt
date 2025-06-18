@@ -4,7 +4,7 @@ project(ExecLivroDeC C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(ExecLivroDeC
-        Teste2.c
+        capitulo_03_Estruturas_repeticao/Exec12345.c
 
 )
 target_link_libraries(ExecLivroDeC m)
