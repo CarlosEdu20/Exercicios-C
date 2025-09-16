@@ -1,3 +1,3 @@
-/home/carlosedu/CLionProjects/ExecLivroDeC/cmake-build-debug/CMakeFiles/ExecLivroDeC.dir
-/home/carlosedu/CLionProjects/ExecLivroDeC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/carlosedu/CLionProjects/ExecLivroDeC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug/CMakeFiles/ExecLivroDeC.dir
+/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
