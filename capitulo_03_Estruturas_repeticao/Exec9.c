@@ -2,8 +2,8 @@
 
 int main() {
     int num;
-    int menor;
-    int maior;
+    int menor = 0;
+    int maior = 0;
 
 
     for (int i = 1; i<=10; i++) {
@@ -11,14 +11,14 @@ int main() {
         scanf("%d", &num);
 
 
+    if (num > maior) {
+        maior = num;
+    }
 
-        if (num > menor) {
-            maior = num;
-        }
-        if (num < maior) {
-            menor = num;
+    if (num < maior) {
+        menor = num;
+    }
 
-        }
 
         printf("Número maior: %d\n", maior);
         printf("Número menor: %d\n", menor);

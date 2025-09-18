@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec9.c" "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o.d"
+  "/home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec13.c" "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o.d"
   "" "ExecLivroDeC" "gcc" "CMakeFiles/ExecLivroDeC.dir/link.d"
   )
 

@@ -72,28 +72,28 @@ include CMakeFiles/ExecLivroDeC.dir/flags.make
 CMakeFiles/ExecLivroDeC.dir/codegen:
 .PHONY : CMakeFiles/ExecLivroDeC.dir/codegen
 
-CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o: CMakeFiles/ExecLivroDeC.dir/flags.make
-CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o: /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec9.c
-CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o: CMakeFiles/ExecLivroDeC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o -MF CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o.d -o CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o -c /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec9.c
+CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o: CMakeFiles/ExecLivroDeC.dir/flags.make
+CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o: /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec13.c
+CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o: CMakeFiles/ExecLivroDeC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o -MF CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o.d -o CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o -c /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec13.c
 
-CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec9.c > CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.i
+CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec13.c > CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.i
 
-CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec9.c -o CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.s
+CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/Exec13.c -o CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.s
 
 # Object files for target ExecLivroDeC
 ExecLivroDeC_OBJECTS = \
-"CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o"
+"CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o"
 
 # External object files for target ExecLivroDeC
 ExecLivroDeC_EXTERNAL_OBJECTS =
 
-ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec9.c.o
+ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o
 ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/build.make
 ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/compiler_depend.ts
 ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/link.txt
