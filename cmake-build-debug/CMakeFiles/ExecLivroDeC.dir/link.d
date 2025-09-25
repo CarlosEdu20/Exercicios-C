@@ -2,7 +2,7 @@ ExecLivroDeC: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o \
-  CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec12.c.o \
+  CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec20.c.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so \
@@ -36,7 +36,7 @@ ExecLivroDeC: \
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o:
 
-CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec12.c.o:
+CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec20.c.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libm.so:
 

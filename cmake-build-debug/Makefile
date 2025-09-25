@@ -136,29 +136,29 @@ ExecLivroDeC/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/build
 .PHONY : ExecLivroDeC/fast
 
-capitulo_03_Estruturas_repeticao/Exec13.o: capitulo_03_Estruturas_repeticao/Exec13.c.o
-.PHONY : capitulo_03_Estruturas_repeticao/Exec13.o
+capitulo_03_Estruturas_repeticao/Exec20.o: capitulo_03_Estruturas_repeticao/Exec20.c.o
+.PHONY : capitulo_03_Estruturas_repeticao/Exec20.o
 
 # target to build an object file
-capitulo_03_Estruturas_repeticao/Exec13.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.o
-.PHONY : capitulo_03_Estruturas_repeticao/Exec13.c.o
+capitulo_03_Estruturas_repeticao/Exec20.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec20.c.o
+.PHONY : capitulo_03_Estruturas_repeticao/Exec20.c.o
 
-capitulo_03_Estruturas_repeticao/Exec13.i: capitulo_03_Estruturas_repeticao/Exec13.c.i
-.PHONY : capitulo_03_Estruturas_repeticao/Exec13.i
+capitulo_03_Estruturas_repeticao/Exec20.i: capitulo_03_Estruturas_repeticao/Exec20.c.i
+.PHONY : capitulo_03_Estruturas_repeticao/Exec20.i
 
 # target to preprocess a source file
-capitulo_03_Estruturas_repeticao/Exec13.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.i
-.PHONY : capitulo_03_Estruturas_repeticao/Exec13.c.i
+capitulo_03_Estruturas_repeticao/Exec20.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec20.c.i
+.PHONY : capitulo_03_Estruturas_repeticao/Exec20.c.i
 
-capitulo_03_Estruturas_repeticao/Exec13.s: capitulo_03_Estruturas_repeticao/Exec13.c.s
-.PHONY : capitulo_03_Estruturas_repeticao/Exec13.s
+capitulo_03_Estruturas_repeticao/Exec20.s: capitulo_03_Estruturas_repeticao/Exec20.c.s
+.PHONY : capitulo_03_Estruturas_repeticao/Exec20.s
 
 # target to generate assembly for a file
-capitulo_03_Estruturas_repeticao/Exec13.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec13.c.s
-.PHONY : capitulo_03_Estruturas_repeticao/Exec13.c.s
+capitulo_03_Estruturas_repeticao/Exec20.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec20.c.s
+.PHONY : capitulo_03_Estruturas_repeticao/Exec20.c.s
 
 # Help Target
 help:
@@ -170,9 +170,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ExecLivroDeC"
-	@echo "... capitulo_03_Estruturas_repeticao/Exec13.o"
-	@echo "... capitulo_03_Estruturas_repeticao/Exec13.i"
-	@echo "... capitulo_03_Estruturas_repeticao/Exec13.s"
+	@echo "... capitulo_03_Estruturas_repeticao/Exec20.o"
+	@echo "... capitulo_03_Estruturas_repeticao/Exec20.i"
+	@echo "... capitulo_03_Estruturas_repeticao/Exec20.s"
 .PHONY : help
 
 
