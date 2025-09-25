@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ExecLivroDeC.dir/link.d"
-  "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec20.c.o"
-  "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec20.c.o.d"
+  "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec21.c.o"
+  "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec21.c.o.d"
   "ExecLivroDeC"
   "ExecLivroDeC.pdb"
 )

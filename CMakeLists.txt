@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(ExecLivroDeC
         capitulo_03_Estruturas_repeticao/
-        capitulo_03_Estruturas_repeticao/Exec20.c
+        capitulo_03_Estruturas_repeticao/Exec21.c
 
 )
 target_link_libraries(ExecLivroDeC m)
