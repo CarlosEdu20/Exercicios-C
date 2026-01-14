@@ -4,8 +4,8 @@ project(ExecLivroDeC C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(ExecLivroDeC
-        capitulo_03_Estruturas_repeticao/
-        capitulo_03_Estruturas_repeticao/Exec21.c
+
+        "capitulo_04_Vetores_e_matrizes - arrays/Alturas.c"
 
 )
 target_link_libraries(ExecLivroDeC m)

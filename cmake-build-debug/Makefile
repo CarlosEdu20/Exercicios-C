@@ -136,29 +136,29 @@ ExecLivroDeC/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/build
 .PHONY : ExecLivroDeC/fast
 
-capitulo_03_Estruturas_repeticao/Exec21.o: capitulo_03_Estruturas_repeticao/Exec21.c.o
-.PHONY : capitulo_03_Estruturas_repeticao/Exec21.o
+capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.o: capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.o
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.o
 
 # target to build an object file
-capitulo_03_Estruturas_repeticao/Exec21.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec21.c.o
-.PHONY : capitulo_03_Estruturas_repeticao/Exec21.c.o
+capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.o
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.o
 
-capitulo_03_Estruturas_repeticao/Exec21.i: capitulo_03_Estruturas_repeticao/Exec21.c.i
-.PHONY : capitulo_03_Estruturas_repeticao/Exec21.i
+capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.i: capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.i
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.i
 
 # target to preprocess a source file
-capitulo_03_Estruturas_repeticao/Exec21.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec21.c.i
-.PHONY : capitulo_03_Estruturas_repeticao/Exec21.c.i
+capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.i
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.i
 
-capitulo_03_Estruturas_repeticao/Exec21.s: capitulo_03_Estruturas_repeticao/Exec21.c.s
-.PHONY : capitulo_03_Estruturas_repeticao/Exec21.s
+capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.s: capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.s
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.s
 
 # target to generate assembly for a file
-capitulo_03_Estruturas_repeticao/Exec21.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/Exec21.c.s
-.PHONY : capitulo_03_Estruturas_repeticao/Exec21.c.s
+capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.s
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.s
 
 # Help Target
 help:
@@ -170,9 +170,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ExecLivroDeC"
-	@echo "... capitulo_03_Estruturas_repeticao/Exec21.o"
-	@echo "... capitulo_03_Estruturas_repeticao/Exec21.i"
-	@echo "... capitulo_03_Estruturas_repeticao/Exec21.s"
+	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.o"
+	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.i"
+	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.s"
 .PHONY : help
 
 
