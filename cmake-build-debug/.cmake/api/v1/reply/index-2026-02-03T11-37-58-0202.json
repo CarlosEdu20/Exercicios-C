@@ -11,22 +11,22 @@
 			"cmake" : "/home/carlosedu/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake",
 			"cpack" : "/home/carlosedu/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cpack",
 			"ctest" : "/home/carlosedu/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/ctest",
-			"root" : "/home/carlosedu/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-4.0"
+			"root" : "/home/carlosedu/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-4.1"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 4,
-			"minor" : 0,
+			"minor" : 1,
 			"patch" : 2,
-			"string" : "4.0.2",
+			"string" : "4.1.2",
 			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-83a3d2f30afce230d208.json",
+			"jsonFile" : "codemodel-v2-857accd692d7595f0db3.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-8986e98d0255b5b814a1.json",
+			"jsonFile" : "cache-v2-23eb9ce23d5c06901eac.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-46d18f199cf016cb10e4.json",
+			"jsonFile" : "cmakeFiles-v1-a7efee524efd2452c88a.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-8986e98d0255b5b814a1.json",
+			"jsonFile" : "cache-v2-23eb9ce23d5c06901eac.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-46d18f199cf016cb10e4.json",
+			"jsonFile" : "cmakeFiles-v1-a7efee524efd2452c88a.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,7 +86,7 @@
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-83a3d2f30afce230d208.json",
+			"jsonFile" : "codemodel-v2-857accd692d7595f0db3.json",
 			"kind" : "codemodel",
 			"version" : 
 			{

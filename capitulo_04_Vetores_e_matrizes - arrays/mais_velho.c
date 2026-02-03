@@ -12,35 +12,21 @@ void main() {
     while(getchar() != '\n');
 
     while (i < pessoas) {
-
-        printf("Dados da %da pessoa: \n", num_pessoas);
+        printf("Dados da %da pessoa: \n", num_pessoas++);
         printf("Nome: ");
-        fgets(nomes[num_pessoas - 1], 30, stdin);
+        fgets(nomes[i], 30, stdin);
         printf("Idade: ");
-        scanf("%d", &idades[num_pessoas - 1]);
+        scanf("%d", &idades[i]);
 
-        if (idades[num_pessoas - 1] > maior_idade) {
-            maior_idade = idades[num_pessoas - 1];
-            strcpy(mais_velho, nomes[num_pessoas - 1]);
-
+        if (idades[i] > maior_idade) {
+            maior_idade = idades[i];
+            strcpy(mais_velho, nomes[i]);
          }
-
-
-
-
-        num_pessoas++;
         i++;
-
 
         while(getchar() != '\n');
 
     }
     printf("PESSOA MAIS VELHA: %s", mais_velho);
-
-
-
-
-
-
 
 }

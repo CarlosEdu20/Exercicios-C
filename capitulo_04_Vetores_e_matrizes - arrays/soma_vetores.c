@@ -12,7 +12,6 @@ void main () {
     printf("Digite os valores do vetor A: \n");
     while (i < valor) {
         scanf("%d", &vetorA[i]);
-
         i++;
 
     }
@@ -25,6 +24,7 @@ void main () {
     for (i = 0; i < valor; i++) {
         soma[i] = vetorA[i] + vetorB[i];
     }
+
     printf("Vetor Resultante: \n");
     for (i = 0; i < valor; i++) {
         printf("%d \n", soma[i]);

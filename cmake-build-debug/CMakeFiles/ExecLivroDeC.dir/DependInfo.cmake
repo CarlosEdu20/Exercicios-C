@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Alturas.c" "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Alturas.c.o.d"
+  "/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c" "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o.d"
   "" "ExecLivroDeC" "gcc" "CMakeFiles/ExecLivroDeC.dir/link.d"
   )
 

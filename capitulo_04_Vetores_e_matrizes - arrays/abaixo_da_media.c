@@ -5,22 +5,26 @@ void main () {
     printf("Quantos elementos vai ter o vetor?: ");
     scanf("%d", &valor);
     float numeros[valor];
-    float soma = 0.0, media;
+    float soma = 0.0;
 
     while (i < valor) {
         printf("Digite um numero: ");
         scanf("%f", &numeros[i]);
-        soma += numeros[i];
         i++;
-
     }
-    media = soma / valor;
-    printf("A media dos numeros e: %.3f\n", media);
+    for (i = 0; i < valor; i++) {
+        soma += numeros[i];
+    }
 
+
+    float media = soma / valor;
+
+    printf("\n");
+    printf("MEDIA DO VETOR = %.2f\n", media);
     printf("Elementos abaixo da média: \n");
     for (i = 0; i < valor; i++) {
         if (numeros[i] < media) {
-            printf("%.2f \n", numeros[i]);
+            printf("%.1f \n", numeros[i]);
 
         }
     }
