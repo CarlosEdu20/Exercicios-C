@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
 
     int i = 1;
     int val, soma = 0;
@@ -16,4 +16,5 @@ void main() {
 
 
 
+    return 0;
 }

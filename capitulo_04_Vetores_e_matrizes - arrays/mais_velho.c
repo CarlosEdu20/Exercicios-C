@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void main() {
+int main() {
     int i = 0, pessoas, num_pessoas = 1;
     printf("Quantas pessoas você vai digitar? ");
     scanf("%d", &pessoas);
@@ -29,4 +29,5 @@ void main() {
     }
     printf("PESSOA MAIS VELHA: %s", mais_velho);
 
+    return 0;
 }

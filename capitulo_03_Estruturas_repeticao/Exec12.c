@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int num, somador = 0;
     printf("Digite um numero: ");
     scanf("%d", &num);
@@ -14,9 +14,10 @@ void main() {
 
     }
     printf("\nSomador: %d", somador);
+     printf("\nSomador: %d", somador);
 
 
 
 
-
+    return 0;
 }

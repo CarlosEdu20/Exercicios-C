@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     float num, somador = 0, media = 0;
     int i;
 
@@ -14,7 +14,8 @@ void main() {
             media = somador / i;
         }
 
-    }
-    printf("A media é %.2f", media);
+     }
+     printf("A media é %.2f", media);
 
+    return 0;
 }

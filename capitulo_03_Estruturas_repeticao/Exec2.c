@@ -1,7 +1,6 @@
-
 #include <stdio.h>
 
-void main() {
+int main() {
     int n, i = 0;
     printf("Digite um numero: ");
     scanf("%d", &n);
@@ -10,4 +9,5 @@ void main() {
         printf("%d \n", n);
         n--;
     }
+    return 0;
 }

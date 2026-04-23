@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void main() {
-    int num, i = 0;
+int main() {
+    int qtd_num, i = 0;
     printf("Quantos numeros voce vai digitar? ");
     scanf("%d", &num);
     int num2[100];
@@ -27,4 +27,6 @@ void main() {
 
 
 
+
+    return 0;
 }

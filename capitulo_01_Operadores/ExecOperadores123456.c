@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void main() {
+int main() {
     int num;
     printf("Digite um número: ");
     scanf("%d", &num);
@@ -47,12 +47,13 @@ void main() {
     float velocidade;
     printf("Insira o velocidade: ");
     scanf("%f", &velocidade);
-    float ms = velocidade / 3.6;
-    printf("Velocidade em metros por segundo: %f\n", ms);
+     float ms = velocidade / 3.6;
+     printf("Velocidade em metros por segundo: %f\n", ms);
 
 
 
 
 
 
+    return 0;
 }

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void main() {
+int main() {
     float real;
     printf("Digite a quantidade em reais que você que vc quer converter: ");
     scanf("%f", &real);
@@ -46,4 +46,5 @@ void main() {
 
 
 
+    return 0;
 }

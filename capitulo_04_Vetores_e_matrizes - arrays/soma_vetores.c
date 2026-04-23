@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main () {
+int main () {
     int valor, i = 0, j = 0;
 
     printf("Quantos valores vai ter cada vetor? ");
@@ -26,9 +26,9 @@ void main () {
     }
 
     printf("Vetor Resultante: \n");
-    for (i = 0; i < valor; i++) {
-        printf("%d \n", soma[i]);
-    }
+     for (i = 0; i < valor; i++) {
+         printf("%d \n", soma[i]);
+     }
 
 
 
@@ -43,6 +43,7 @@ void main () {
 
 
 
+    return 0;
 }
 
 

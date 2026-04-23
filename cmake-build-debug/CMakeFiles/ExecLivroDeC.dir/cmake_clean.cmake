@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ExecLivroDeC.dir/link.d"
-  "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o"
-  "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o.d"
+  "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.o"
+  "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.o.d"
   "ExecLivroDeC"
   "ExecLivroDeC.pdb"
 )

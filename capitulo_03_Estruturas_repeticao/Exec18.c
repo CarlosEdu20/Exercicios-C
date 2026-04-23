@@ -1,6 +1,6 @@
 #include  <stdio.h>
 
-void main() {
+int main() {
     int num, primo = 1;
 
     printf("Digite um número para saber se ele é primo ou não: ");
@@ -28,7 +28,5 @@ void main() {
 
 
 
-
-
-
+    return 0;
 }

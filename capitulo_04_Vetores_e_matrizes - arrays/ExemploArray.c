@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int val[5];
     int i;
     for (i = 0; i < 5; i++) {
@@ -15,9 +15,5 @@ void main() {
 
 
 
+    return 0;
 }
-
-
-
-
-

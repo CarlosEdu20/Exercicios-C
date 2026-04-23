@@ -2,7 +2,7 @@
 #include <string.h>
 
 
-void main() {
+int main() {
     int qtd_alunos;
     printf("Quantos alunos serão digitados? ");
     scanf("%d", &qtd_alunos);
@@ -40,9 +40,5 @@ void main() {
 
 
 
-
-
-
-
-
+    return 0;
 }

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int num = 0, maior = 0, cont = 0, qtd_num;
     printf("Digite a quantidade de números a ser lida: ");
     scanf("%d", &qtd_num);
@@ -23,6 +23,5 @@ void main() {
 
 
 
-
-
+    return 0;
 }

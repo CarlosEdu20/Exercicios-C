@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int num, div;
     printf("Digite um numero: ");
     scanf("%d", &num);
@@ -14,12 +14,5 @@ void main() {
 
     }
 
-
-
-
-
-
-
-
-
+    return 0;
 }

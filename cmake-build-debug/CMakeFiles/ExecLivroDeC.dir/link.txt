@@ -1,1 +1,1 @@
-/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/ExecLivroDeC.dir/link.d "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o" -o ExecLivroDeC  -lm
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/ExecLivroDeC.dir/link.d CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.o -o ExecLivroDeC  -lm

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-void main() {
+int main() {
     float a, b, h;
     printf("Digite o cateto A: ");
     scanf("%f", &a);
@@ -70,9 +70,10 @@ void main() {
     printf("Operação and %d", eBit);
 
 
+     printf("Operação and %d", eBit);
 
 
 
 
-
+    return 0;
 }

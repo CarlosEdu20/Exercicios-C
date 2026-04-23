@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void main() {
+int main() {
     int i = 0, qtd_produtos, j = 1, lucro_abaixo_de_10 = 0, lucro_entre_10_e_20 = 0, lucro_acima_de_20 = 0;
     printf("Serão digitados dados de quantos produtos? ");
     scanf("%d", &qtd_produtos);
@@ -54,14 +54,5 @@ void main() {
     printf("Total venda : %.2f\n", total_venda);
     printf("Lucro total: %.2f", lucro_total);
 
-
-
-
-
-
-
-
-
-
-
+    return 0;
 }

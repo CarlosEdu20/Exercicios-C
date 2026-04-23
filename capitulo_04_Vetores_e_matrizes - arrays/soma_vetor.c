@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main () {
+int main () {
     int num;
     float soma = 0;
     int i = 1;
@@ -23,7 +23,8 @@ void main () {
     for (i = 0; i < num; i++) {
         printf("%.1f ", num2[i]);
     }
-    printf("\nSOMA = %.2f\n", soma);
-    printf("Media = %.2f\n", soma / num);
+     printf("\nSOMA = %.2f\n", soma);
+     printf("Media = %.2f\n", soma / num);
 
+    return 0;
 }

@@ -2,7 +2,7 @@
 #include <math.h>
 
 
-void main() {
+int main() {
     // int num1, num2;
     // printf("Digite o primeiro numero: ");
     // scanf("%d", &num1);
@@ -70,7 +70,5 @@ void main() {
 
 
 
-
-
-
+    return 0;
 }

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void main() {
-   int num;
+int main() {
+    int num;
    double E = 0.0;
    double fatorial;
 
@@ -17,11 +17,12 @@ void main() {
 
       E += 1.0 / fatorial;
    }
-   printf("O resultado eh: %.2lf", E);
+    printf("O resultado eh: %.2lf", E);
 
 
 
 
 
 
+    return 0;
 }

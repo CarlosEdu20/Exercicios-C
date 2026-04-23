@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int N, i = 0;
     printf("Digite um número natural: " );
     scanf("%d", &N);
@@ -11,4 +11,5 @@ void main() {
     }
 
 
+    return 0;
 }

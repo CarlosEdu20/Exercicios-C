@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main () {
+int main () {
     int num, i, j, m = 0, acumulador = 1;
     printf("Digite um numero: ");
     scanf("%d", &num);
@@ -12,12 +12,11 @@ void main () {
 
         }
         m++;
-        printf("\n");
-    }
+         printf("\n");
+     }
 
 
 
 
-
-
+    return 0;
 }

@@ -6,7 +6,7 @@ set(CMAKE_C_STANDARD 11)
 add_executable(ExecLivroDeC
 
 
-        "capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c"
+        capitulo_03_Estruturas_repeticao/atletas.c
 
 )
 target_link_libraries(ExecLivroDeC m)

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int num = 0, i = 0 , menor = 0, maior = 0;
 
     while (num >= 0) {
@@ -26,6 +26,5 @@ void main() {
 
 
 
-
-
+    return 0;
 }

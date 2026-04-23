@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int num, fn, f1, f2;
     printf("Digite um da sequencia de fibonacci: ");
     scanf("%d", &num);
@@ -14,17 +14,7 @@ void main() {
             f2 = fn;
             printf("%d ", fn);
         }
-
-
-
-
     }
 
-
-
-
-
-
-
-
+    return 0;
 }

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void main () {
-    int valor, i = 0;
+int main () {
+    int n, i = 0;
     printf("Quantos elementos vai ter o vetor?: ");
     scanf("%d", &valor);
     float numeros[valor];
@@ -29,12 +29,5 @@ void main () {
         }
     }
 
-
-
-
-
-
-
-
-
+    return 0;
 }

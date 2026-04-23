@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void main() {
+int main() {
     int qtd_num, i = 0;;
     printf("Quantos números você vai digitar? ");
     scanf("%d", &qtd_num);
@@ -27,9 +27,9 @@ void main() {
 
 
 
-    }
+     }
 
 
 
-
+    return 0;
 }

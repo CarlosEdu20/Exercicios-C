@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int somador = 0;
 
 
@@ -12,7 +12,8 @@ void main() {
         }
 
     }
-    printf("\nA soma dos números naturais abaixo de mil é %d", somador);
+     printf("\nA soma dos números naturais abaixo de mil é %d", somador);
 
 
+    return 0;
 }

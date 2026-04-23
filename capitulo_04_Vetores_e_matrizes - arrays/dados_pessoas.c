@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void main() {
-    int i = 0, num_pessoas, j = 1, num_homens = 0, num_mulheres = 0;
+int main() {
+    int num_pessoas, i = 0, j = 1, num_mulheres = 0, num_homens = 0;
     printf("Quantas pessoas serão digitadas? ");
     scanf("%d", &num_pessoas);
     float alturas[num_pessoas], maior_altura, menor_altura,
@@ -50,6 +50,5 @@ void main() {
 
 
 
-
-
+    return 0;
 }

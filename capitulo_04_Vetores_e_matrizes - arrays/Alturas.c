@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main () {
+int main () {
     int num_pessoas, i = 0, idade_menor = 0;
     printf("Quantas pessoas serão digitadas? ");
     scanf("%d", &num_pessoas);
@@ -41,13 +41,5 @@ void main () {
         }
     }
 
-
-
-
-
-
-
-
-
-
+    return 0;
 }
