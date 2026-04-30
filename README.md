@@ -19,12 +19,6 @@ gcc -o output capitulo_01_Operadores/ExecOperadores123456.c
 ./output
 ```
 
-## Padrão de Código
-
-Todo código segue o padrão **ANSI C**:
-- Função `main` retorna `int`
-- `return 0;` no final da execução
-
 ## Aviso
 
 Os códigos são de uso educacional e foram feitos como prática pessoal.
