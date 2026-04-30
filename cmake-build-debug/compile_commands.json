@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.o -c /home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/atletas.c",
+  "file": "/home/carlosedu/Documentos/Exercicios-C/capitulo_03_Estruturas_repeticao/atletas.c",
+  "output": "CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.o"
+},
+{
+  "directory": "/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.o -c \"/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Concurso.c\"",
+  "file": "/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Concurso.c",
+  "output": "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.o"
+}
+]

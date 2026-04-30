@@ -7,6 +7,7 @@ add_executable(ExecLivroDeC
 
 
         capitulo_03_Estruturas_repeticao/atletas.c
+        "capitulo_04_Vetores_e_matrizes - arrays/Concurso.c"
 
 )
 target_link_libraries(ExecLivroDeC m)
