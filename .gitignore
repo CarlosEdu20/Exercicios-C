@@ -1,0 +1,63 @@
+# Build directories
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+build/
+dist/
+
+# Executables (Linux/Unix)
+ExecLivroDeC
+*.out
+*.exe
+
+# Object files and libraries
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+
+# CMake
+CMakeLists.txt.user
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.iws
+*.ipr
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.dSYM/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# GCC/Clang generated files
+*.gch
+*.pch
+
+# Valgrind
+vgcore.*
+callgrind.out.*
+
+# OS specific
+.AppleDouble
+.LSOverride
+._*
+
