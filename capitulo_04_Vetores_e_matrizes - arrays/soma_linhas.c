@@ -2,19 +2,19 @@
 
 
 int main() {
-    int n, col, lin, i = 0, j = 0;
+    int matriz_linha = 0, matriz_coluna = 0, incrementador = 1;
     printf("Qual a quantidade de linhas da matriz? ");
     scanf("%d", &matriz_linha);
     printf("Qual a quantidade de colunas da matriz? ");
     scanf("%d", &matriz_coluna);
-    int matriz[matriz_linha][matriz_coluna];
-    int soma[matriz_linha];
+    float matriz[matriz_linha][matriz_coluna];
+    float soma[matriz_linha];
 
 
     for (int i = 0; i < matriz_linha; i++) {
         printf("Digite os elementos da %da. linha: \n", incrementador);
         for (int j = 0; j < matriz_coluna; j++) {
-            scanf("%d", &matriz[i][j]);
+            scanf("%f", &matriz[i][j]);
 
         }
         incrementador++;
@@ -31,7 +31,7 @@ int main() {
 
     printf("Vetor gerado: \n");
     for (int i = 0; i < matriz_linha; i++) {
-        printf("%d \n", soma[i]);
+        printf("%.2f\n", soma[i]);
     }
 
     return 0;

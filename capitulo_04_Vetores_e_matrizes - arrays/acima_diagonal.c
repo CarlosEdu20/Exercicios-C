@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main () {
-    int n, i = 0, j = 0;
-    int i,j;
+    int ordem, i = 0, j = 0;
     printf("Qual a ordem da matriz? ");
     scanf("%d", &ordem);
     int matriz[10][10];

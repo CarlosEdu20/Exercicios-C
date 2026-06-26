@@ -2,7 +2,7 @@
 
 
 int main() {
-    int n, col, lin, i = 0, j = 0;
+    int ordem;
     printf("Qual a ordem da matriz? ");
     scanf("%d", &ordem);
     int matriz[ordem][ordem];

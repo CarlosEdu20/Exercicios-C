@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int n, col, lin, i = 0, j = 0;
-    int i, j;
+    int  coluna, linha, i = 0, j = 0;
     printf("Quantas linhas vai ter cada matriz? ");
     scanf("%d", &linha);
     printf("Quantas colunas vai ter cada matriz? ");
@@ -15,9 +14,10 @@ int main() {
     for (i = 0; i < linha; i++) {
         for (j = 0; j < coluna; j++) {
             printf("Elemento [%d,%d]: ", i, j);
-            scanf("%d", &matrizA[i][j]);
+            scanf("%d",  &matrizA[i][j]);
         }
     }
+
     printf("Digite os valores da Matriz B: ");
     printf("\n");
     for (i = 0; i < linha; i++) {

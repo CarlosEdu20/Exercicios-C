@@ -2,7 +2,7 @@
 
 
 int main() {
-    int coluna, linha, i = 0, j = 0;
+    int colunas, linhas;
 
     printf("Qual a quantidade de linhas da matriz?  ");
     scanf("%d", &linhas);

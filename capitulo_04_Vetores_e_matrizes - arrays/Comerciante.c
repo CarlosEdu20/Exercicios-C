@@ -1,16 +1,26 @@
 #include <stdio.h>
+#include <string.h>
 
 
 int main() {
-    int i = 0, qtd_produtos, j = 1, lucro_abaixo_de_10 = 0, lucro_entre_10_e_20 = 0, lucro_acima_de_20 = 0;
+    int i = 0, qtd_produtos,
+    j = 1, lucro_abaixo_de_10 = 0,
+    lucro_entre_10_e_20 = 0, lucro_acima_de_20 = 0;
+
     printf("Serão digitados dados de quantos produtos? ");
     scanf("%d", &qtd_produtos);
-    char nome_produtos[qtd_produtos][30];
-    float preco_compra[qtd_produtos], preco_venda[qtd_produtos], lucro = 0, percentual_lucro = 0, total_compra = 0, total_venda = 0, lucro_total = 0;
-
-
     while(getchar() != '\n');
-    while(i < qtd_produtos) {
+
+
+
+    char nome_produtos[qtd_produtos][30];
+    float preco_compra[qtd_produtos], preco_venda[qtd_produtos],
+    lucro = 0, percentual_lucro = 0,
+    total_compra = 0, total_venda = 0,
+    lucro_total = 0;
+
+
+    for (i = 0; i < qtd_produtos; i++) {
         printf("Produto %d: \n", j++);
         printf("Nome: ");
         fgets(nome_produtos[i], 30, stdin);
@@ -18,8 +28,9 @@ int main() {
         scanf("%f", &preco_compra[i]);
         printf("Preco de venda: ");
         scanf("%f", &preco_venda[i]);
-        i++;
+
         while(getchar() != '\n');
+
     }
 
     for (i = 0; i < qtd_produtos; i++) {
@@ -41,8 +52,7 @@ int main() {
     for (i = 0; i < qtd_produtos; i++) {
         total_compra += preco_compra[i];
         total_venda += preco_venda[i];
-        lucro_total =  total_venda + total_compra;
-
+        lucro_total =  total_venda - total_compra;
 
     }
 

@@ -136,53 +136,29 @@ ExecLivroDeC/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/build
 .PHONY : ExecLivroDeC/fast
 
-capitulo_03_Estruturas_repeticao/atletas.o: capitulo_03_Estruturas_repeticao/atletas.c.o
-.PHONY : capitulo_03_Estruturas_repeticao/atletas.o
+capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.o: capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.o
 
 # target to build an object file
-capitulo_03_Estruturas_repeticao/atletas.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.o
-.PHONY : capitulo_03_Estruturas_repeticao/atletas.c.o
+capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o
 
-capitulo_03_Estruturas_repeticao/atletas.i: capitulo_03_Estruturas_repeticao/atletas.c.i
-.PHONY : capitulo_03_Estruturas_repeticao/atletas.i
-
-# target to preprocess a source file
-capitulo_03_Estruturas_repeticao/atletas.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.i
-.PHONY : capitulo_03_Estruturas_repeticao/atletas.c.i
-
-capitulo_03_Estruturas_repeticao/atletas.s: capitulo_03_Estruturas_repeticao/atletas.c.s
-.PHONY : capitulo_03_Estruturas_repeticao/atletas.s
-
-# target to generate assembly for a file
-capitulo_03_Estruturas_repeticao/atletas.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_03_Estruturas_repeticao/atletas.c.s
-.PHONY : capitulo_03_Estruturas_repeticao/atletas.c.s
-
-capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.o: capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.o
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.o
-
-# target to build an object file
-capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.o
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.o
-
-capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.i: capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.i
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.i
+capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.i: capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.i
 
 # target to preprocess a source file
-capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.i
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.i
+capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i
 
-capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.s: capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.s
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.s
+capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.s: capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.s
 
 # target to generate assembly for a file
-capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.s
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.c.s
+capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s
+.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s
 
 # Help Target
 help:
@@ -194,12 +170,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ExecLivroDeC"
-	@echo "... capitulo_03_Estruturas_repeticao/atletas.o"
-	@echo "... capitulo_03_Estruturas_repeticao/atletas.i"
-	@echo "... capitulo_03_Estruturas_repeticao/atletas.s"
-	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.o"
-	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.i"
-	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Concurso.s"
+	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.o"
+	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.i"
+	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.s"
 .PHONY : help
 
 
