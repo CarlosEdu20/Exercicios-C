@@ -1,8 +1,8 @@
 [
 {
   "directory": "/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug",
-  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o -c \"/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c\"",
-  "file": "/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c",
-  "output": "CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o"
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o -c /home/carlosedu/Documentos/Exercicios-C/Capitulo_09_funcoes/Testando_funcao.c",
+  "file": "/home/carlosedu/Documentos/Exercicios-C/Capitulo_09_funcoes/Testando_funcao.c",
+  "output": "CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o"
 }
 ]

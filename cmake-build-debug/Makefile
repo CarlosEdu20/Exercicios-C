@@ -136,29 +136,29 @@ ExecLivroDeC/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/build
 .PHONY : ExecLivroDeC/fast
 
-capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.o: capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.o
+Capitulo_09_funcoes/Testando_funcao.o: Capitulo_09_funcoes/Testando_funcao.c.o
+.PHONY : Capitulo_09_funcoes/Testando_funcao.o
 
 # target to build an object file
-capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o
+Capitulo_09_funcoes/Testando_funcao.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o
+.PHONY : Capitulo_09_funcoes/Testando_funcao.c.o
 
-capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.i: capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.i
+Capitulo_09_funcoes/Testando_funcao.i: Capitulo_09_funcoes/Testando_funcao.c.i
+.PHONY : Capitulo_09_funcoes/Testando_funcao.i
 
 # target to preprocess a source file
-capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i
+Capitulo_09_funcoes/Testando_funcao.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.i
+.PHONY : Capitulo_09_funcoes/Testando_funcao.c.i
 
-capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.s: capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.s
+Capitulo_09_funcoes/Testando_funcao.s: Capitulo_09_funcoes/Testando_funcao.c.s
+.PHONY : Capitulo_09_funcoes/Testando_funcao.s
 
 # target to generate assembly for a file
-capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s
-.PHONY : capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s
+Capitulo_09_funcoes/Testando_funcao.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.s
+.PHONY : Capitulo_09_funcoes/Testando_funcao.c.s
 
 # Help Target
 help:
@@ -170,9 +170,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ExecLivroDeC"
-	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.o"
-	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.i"
-	@echo "... capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.s"
+	@echo "... Capitulo_09_funcoes/Testando_funcao.o"
+	@echo "... Capitulo_09_funcoes/Testando_funcao.i"
+	@echo "... Capitulo_09_funcoes/Testando_funcao.s"
 .PHONY : help
 
 

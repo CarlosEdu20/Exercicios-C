@@ -8,7 +8,8 @@ add_executable(ExecLivroDeC
 
 
 
-        "capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c"
+        "capitulo_09_funcoes/Testando_funcao.c"
+
 
 )
 target_link_libraries(ExecLivroDeC m)

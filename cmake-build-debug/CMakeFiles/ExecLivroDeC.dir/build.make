@@ -72,28 +72,28 @@ include CMakeFiles/ExecLivroDeC.dir/flags.make
 CMakeFiles/ExecLivroDeC.dir/codegen:
 .PHONY : CMakeFiles/ExecLivroDeC.dir/codegen
 
-CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o: CMakeFiles/ExecLivroDeC.dir/flags.make
-CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o: /home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes\ -\ arrays/Comerciante.c
-CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o: CMakeFiles/ExecLivroDeC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o -MF CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o.d -o CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o -c "/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c"
+CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o: CMakeFiles/ExecLivroDeC.dir/flags.make
+CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o: /home/carlosedu/Documentos/Exercicios-C/Capitulo_09_funcoes/Testando_funcao.c
+CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o: CMakeFiles/ExecLivroDeC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/carlosedu/Documentos/Exercicios-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o -MF CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o.d -o CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o -c /home/carlosedu/Documentos/Exercicios-C/Capitulo_09_funcoes/Testando_funcao.c
 
-CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c" > CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.i
+CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/carlosedu/Documentos/Exercicios-C/Capitulo_09_funcoes/Testando_funcao.c > CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.i
 
-CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/carlosedu/Documentos/Exercicios-C/capitulo_04_Vetores_e_matrizes - arrays/Comerciante.c" -o CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.s
+CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/carlosedu/Documentos/Exercicios-C/Capitulo_09_funcoes/Testando_funcao.c -o CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.s
 
 # Object files for target ExecLivroDeC
 ExecLivroDeC_OBJECTS = \
-"CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o"
+"CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o"
 
 # External object files for target ExecLivroDeC
 ExecLivroDeC_EXTERNAL_OBJECTS =
 
-ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/capitulo_04_Vetores_e_matrizes_-_arrays/Comerciante.c.o
+ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o
 ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/build.make
 ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/compiler_depend.ts
 ExecLivroDeC: CMakeFiles/ExecLivroDeC.dir/link.txt
