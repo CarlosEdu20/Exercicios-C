@@ -1,1 +1,1 @@
-/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/ExecLivroDeC.dir/link.d CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o -o ExecLivroDeC  -lm
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/ExecLivroDeC.dir/link.d CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o -o ExecLivroDeC  -lm

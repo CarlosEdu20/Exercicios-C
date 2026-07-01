@@ -8,7 +8,7 @@ add_executable(ExecLivroDeC
 
 
 
-        "capitulo_09_funcoes/Testando_funcao.c"
+        "capitulo_05_Strings/Exec5.c"
 
 
 )

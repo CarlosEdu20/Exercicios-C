@@ -136,29 +136,29 @@ ExecLivroDeC/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/build
 .PHONY : ExecLivroDeC/fast
 
-Capitulo_09_funcoes/Testando_funcao.o: Capitulo_09_funcoes/Testando_funcao.c.o
-.PHONY : Capitulo_09_funcoes/Testando_funcao.o
+capitulo_05_Strings/Exec5.o: capitulo_05_Strings/Exec5.c.o
+.PHONY : capitulo_05_Strings/Exec5.o
 
 # target to build an object file
-Capitulo_09_funcoes/Testando_funcao.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o
-.PHONY : Capitulo_09_funcoes/Testando_funcao.c.o
+capitulo_05_Strings/Exec5.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o
+.PHONY : capitulo_05_Strings/Exec5.c.o
 
-Capitulo_09_funcoes/Testando_funcao.i: Capitulo_09_funcoes/Testando_funcao.c.i
-.PHONY : Capitulo_09_funcoes/Testando_funcao.i
+capitulo_05_Strings/Exec5.i: capitulo_05_Strings/Exec5.c.i
+.PHONY : capitulo_05_Strings/Exec5.i
 
 # target to preprocess a source file
-Capitulo_09_funcoes/Testando_funcao.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.i
-.PHONY : Capitulo_09_funcoes/Testando_funcao.c.i
+capitulo_05_Strings/Exec5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.i
+.PHONY : capitulo_05_Strings/Exec5.c.i
 
-Capitulo_09_funcoes/Testando_funcao.s: Capitulo_09_funcoes/Testando_funcao.c.s
-.PHONY : Capitulo_09_funcoes/Testando_funcao.s
+capitulo_05_Strings/Exec5.s: capitulo_05_Strings/Exec5.c.s
+.PHONY : capitulo_05_Strings/Exec5.s
 
 # target to generate assembly for a file
-Capitulo_09_funcoes/Testando_funcao.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.s
-.PHONY : Capitulo_09_funcoes/Testando_funcao.c.s
+capitulo_05_Strings/Exec5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.s
+.PHONY : capitulo_05_Strings/Exec5.c.s
 
 # Help Target
 help:
@@ -170,9 +170,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ExecLivroDeC"
-	@echo "... Capitulo_09_funcoes/Testando_funcao.o"
-	@echo "... Capitulo_09_funcoes/Testando_funcao.i"
-	@echo "... Capitulo_09_funcoes/Testando_funcao.s"
+	@echo "... capitulo_05_Strings/Exec5.o"
+	@echo "... capitulo_05_Strings/Exec5.i"
+	@echo "... capitulo_05_Strings/Exec5.s"
 .PHONY : help
 
 

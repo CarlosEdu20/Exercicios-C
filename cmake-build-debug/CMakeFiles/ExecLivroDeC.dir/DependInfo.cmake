@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/carlosedu/Documentos/Exercicios-C/Capitulo_09_funcoes/Testando_funcao.c" "CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o.d"
+  "/home/carlosedu/Documentos/Exercicios-C/capitulo_05_Strings/Exec5.c" "CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o.d"
   "" "ExecLivroDeC" "gcc" "CMakeFiles/ExecLivroDeC.dir/link.d"
   )
 

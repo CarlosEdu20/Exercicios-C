@@ -2,7 +2,7 @@ ExecLivroDeC: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/Scrt1.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtbeginS.o \
-  CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o \
+  CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so \
@@ -46,7 +46,7 @@ ExecLivroDeC: \
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtbeginS.o:
 
-CMakeFiles/ExecLivroDeC.dir/Capitulo_09_funcoes/Testando_funcao.c.o:
+CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so:
 
