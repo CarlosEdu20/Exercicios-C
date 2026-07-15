@@ -136,29 +136,29 @@ ExecLivroDeC/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/build
 .PHONY : ExecLivroDeC/fast
 
-capitulo_05_Strings/Exec5.o: capitulo_05_Strings/Exec5.c.o
-.PHONY : capitulo_05_Strings/Exec5.o
+capitulo_09_Funcoes/retangulo.o: capitulo_09_Funcoes/retangulo.c.o
+.PHONY : capitulo_09_Funcoes/retangulo.o
 
 # target to build an object file
-capitulo_05_Strings/Exec5.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o
-.PHONY : capitulo_05_Strings/Exec5.c.o
+capitulo_09_Funcoes/retangulo.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/retangulo.c.o
+.PHONY : capitulo_09_Funcoes/retangulo.c.o
 
-capitulo_05_Strings/Exec5.i: capitulo_05_Strings/Exec5.c.i
-.PHONY : capitulo_05_Strings/Exec5.i
+capitulo_09_Funcoes/retangulo.i: capitulo_09_Funcoes/retangulo.c.i
+.PHONY : capitulo_09_Funcoes/retangulo.i
 
 # target to preprocess a source file
-capitulo_05_Strings/Exec5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.i
-.PHONY : capitulo_05_Strings/Exec5.c.i
+capitulo_09_Funcoes/retangulo.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/retangulo.c.i
+.PHONY : capitulo_09_Funcoes/retangulo.c.i
 
-capitulo_05_Strings/Exec5.s: capitulo_05_Strings/Exec5.c.s
-.PHONY : capitulo_05_Strings/Exec5.s
+capitulo_09_Funcoes/retangulo.s: capitulo_09_Funcoes/retangulo.c.s
+.PHONY : capitulo_09_Funcoes/retangulo.s
 
 # target to generate assembly for a file
-capitulo_05_Strings/Exec5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.s
-.PHONY : capitulo_05_Strings/Exec5.c.s
+capitulo_09_Funcoes/retangulo.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExecLivroDeC.dir/build.make CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/retangulo.c.s
+.PHONY : capitulo_09_Funcoes/retangulo.c.s
 
 # Help Target
 help:
@@ -170,9 +170,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ExecLivroDeC"
-	@echo "... capitulo_05_Strings/Exec5.o"
-	@echo "... capitulo_05_Strings/Exec5.i"
-	@echo "... capitulo_05_Strings/Exec5.s"
+	@echo "... capitulo_09_Funcoes/retangulo.o"
+	@echo "... capitulo_09_Funcoes/retangulo.i"
+	@echo "... capitulo_09_Funcoes/retangulo.s"
 .PHONY : help
 
 

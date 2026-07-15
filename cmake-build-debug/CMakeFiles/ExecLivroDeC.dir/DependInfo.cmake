@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/carlosedu/Documentos/Exercicios-C/capitulo_05_Strings/Exec5.c" "CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/capitulo_05_Strings/Exec5.c.o.d"
+  "/home/carlosedu/Documentos/Exercicios-C/capitulo_09_Funcoes/retangulo.c" "CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/retangulo.c.o" "gcc" "CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/retangulo.c.o.d"
   "" "ExecLivroDeC" "gcc" "CMakeFiles/ExecLivroDeC.dir/link.d"
   )
 
