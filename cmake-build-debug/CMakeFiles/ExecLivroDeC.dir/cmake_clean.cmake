@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ExecLivroDeC.dir/link.d"
-  "CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/retangulo.c.o"
-  "CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/retangulo.c.o.d"
+  "CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/contribuentes.c.o"
+  "CMakeFiles/ExecLivroDeC.dir/capitulo_09_Funcoes/contribuentes.c.o.d"
   "ExecLivroDeC"
   "ExecLivroDeC.pdb"
 )

@@ -8,7 +8,7 @@ add_executable(ExecLivroDeC
 
 
 
-        "capitulo_09_Funcoes/retangulo.c"
+        "capitulo_09_Funcoes/contribuentes.c"
 
 
 
